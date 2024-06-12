@@ -6,7 +6,7 @@
 **Problem Statement:** Develop a CNN-based model to accurately detect melanoma, 
 a deadly cancer responsible for 75% of skin cancer deaths, to assist dermatologists in diagnosis by evaluating images.
 
-**Dataset:** The dataset, from the International Skin Imaging Collaboration (ISIC), includes 2357 images of 
+**Dataset:** The dataset, from the International Skin Imaging Collaboration (ISIC), includes 2240 images (9 classes) of 
 various malignant and benign oncological diseases, slightly dominated by melanoma and moles. It covers:
 
 - Actinic keratosis
